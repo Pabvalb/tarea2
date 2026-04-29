@@ -2,7 +2,7 @@
 int main()
 {
     int a, b;
-    printf("Ingresedos números: ");
+    printf("Ingrese dos números: ");
     scanf("%d %d", &a, &b);
     if (b != 0 && a % b ==0)
     {
